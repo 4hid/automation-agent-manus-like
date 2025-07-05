@@ -1,3 +1,6 @@
+
+![Image 05-07-2025 at 5 33 AM](https://github.com/user-attachments/assets/4f08cd53-41ff-435a-b4af-82ba2862eb94)
+
 # Automation Agent - Manus AI Alternative
 
 A comprehensive open-source AI automation agent that provides **Manus AI-like capabilities** for full task automation. Unlike traditional AI assistants that only provide suggestions, this agent **autonomously executes tasks** across multiple domains including research, content creation, software development, data analysis, and workflow automation.
