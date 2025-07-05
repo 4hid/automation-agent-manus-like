@@ -2,9 +2,6 @@
 
 A comprehensive open-source AI automation agent that provides **Manus AI-like capabilities** for full task automation. Unlike traditional AI assistants that only provide suggestions, this agent **autonomously executes tasks** across multiple domains including research, content creation, software development, data analysis, and workflow automation.
 
-> **🎯 Inspired by Manus AI's SOTA performance** - This implementation aims to replicate and exceed Manus AI's capabilities while remaining fully open-source and self-hosted.
-
-## 🚀 Key Features
 
 ### **🤖 Autonomous Task Execution** 
 *Like Manus AI, goes beyond suggestions to actually execute tasks*
